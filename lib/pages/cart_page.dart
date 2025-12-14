@@ -14,7 +14,7 @@ class CartPage extends StatelessWidget {
           IconButton(
             icon: const Icon(Icons.delete),
             onPressed: () {
-              // Logic for clearing the cart can be added here if needed
+              // Logic for clearing the cart can be added here if need
             },
           ),
         ],
@@ -53,3 +53,4 @@ class CartPage extends StatelessWidget {
     );
   }
 }
+
